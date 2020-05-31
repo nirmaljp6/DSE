@@ -1,0 +1,7 @@
+
+# ignore entire snapshots folder
+snapshots/*
+!snapshots/.gitkeep
+
+#preprocessed_data/*
+#!preprocessed_data/.gitkeep
